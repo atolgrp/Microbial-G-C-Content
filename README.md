@@ -3,7 +3,7 @@ Python code and data for the paper:
 
 "Relationship between the bacterial G+C content, its genome size and the G+C content of any associated plasmids"
 
-## Files:
+### Files:
 
 *MyGC.scv: Contains all microbial data except phages
 
